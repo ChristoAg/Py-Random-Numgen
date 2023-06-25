@@ -5,14 +5,10 @@ If you have suggestions, feel free to add me through Discord ChristoAg#1774 or s
 
 NOTEWORTHY INFOS:
 In order to run this programme, you need to use some kind of software like Visual Studio Code that will help you run the programme. 
-
 Also, not to forget that you need to install Python (at least version 3) first before running this code above!
-
-Windows = https://www.python.org/downloads/windows/
-
-MacOS = https://www.python.org/downloads/macos/
-
-Linux-based OS = https://docs.python-guide.org/starting/install3/linux/ (I am not a geek in Linux-based things)
+- Windows = https://www.python.org/downloads/windows/
+- MacOS = https://www.python.org/downloads/macos/
+- Linux-based OS = https://docs.python-guide.org/starting/install3/linux/ (I am not a geek in Linux-based things)
 
 NOTES AND PROCEDURES:
 - This Numguess (Number-guessing game) has 4 different options with various levels of difficulty, so you need to choose which one suits the best for you.
