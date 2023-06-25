@@ -1,7 +1,7 @@
 import random
 
 print("Welcome to the Number-guessing Game!")
-choice = input("Please select your difficulty: \n[E] Easy(1-digits) \n[M] Medium(2/3-digits) \n[H] Hard(4-digits) \n[I] Impossible(Up to 6-digits)")
+choice = input("Please select your difficulty: \n[E] Easy(1-digits) \n[M] Medium(2/3-digits) \n[H] Hard(4-digits) \n[I] Impossible(Up to 6-digits) \n")
 
 def easy():
     numbers  = random.randint(0, 9)
