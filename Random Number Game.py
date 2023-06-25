@@ -55,3 +55,5 @@ elif choice == "h":
     hard()
 elif choice == "i":
     impossible()
+else:
+    impossible()
