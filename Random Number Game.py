@@ -56,4 +56,5 @@ elif choice == "h":
 elif choice == "i":
     impossible()
 else:
-    impossible()
+    print("It seems like you just chose a medium level, good luck with that!")
+    medium()
