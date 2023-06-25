@@ -14,5 +14,5 @@ NOTES AND PROCEDURES:
 - This Numguess (Number-guessing game) has 4 different options with various levels of difficulty, so you need to choose which one suits the best for you.
 - There are 4 levels of difficulty in this game: Easy (from 0-9), Medium (from 0-999), Hard (from 0-9999), and Impossible (from 0-999999).
 - To play this game, you have to guess any numbers (integers) below
-- The guessing number ranging can be any digits, from tens to billions I don't care as long as it's numbers
+- The guessing number ranging can be any digits, from tens to thousands I don't care as long as it's numbers
 - Last but not least, I wish you good luck in guessing the number!
